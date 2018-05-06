@@ -25,7 +25,4 @@
       "maxSize": "15 kB"
     }
   ],
-    "dependencies": {},
-    "peerDependencies": {
-    }
-  }
+}
