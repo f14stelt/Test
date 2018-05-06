@@ -1,7 +1,7 @@
 {
   "name": "test",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "files": [
     "dist/",
     "js/{src,dist}/",
@@ -29,4 +29,3 @@
     "peerDependencies": {
     }
   }
-}
